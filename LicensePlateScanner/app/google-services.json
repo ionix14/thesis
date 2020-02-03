@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1047874666510",
+    "firebase_url": "https://license-plate-scanner-1796d.firebaseio.com",
+    "project_id": "license-plate-scanner-1796d",
+    "storage_bucket": "license-plate-scanner-1796d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047874666510:android:74deb3ca897ae5df87fc5f",
+        "android_client_info": {
+          "package_name": "com.test.licenseplatescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047874666510-3do8j7pgch4gf0ih158ltsp4d28uh1q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.licenseplatescanner",
+            "certificate_hash": "9db9ff4400edea0e8add827499bc9ed171ff95f4"
+          }
+        },
+        {
+          "client_id": "1047874666510-odsacfp67fiuckkjauhe104bd27o7deo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iCqCJ9rFLag60v16JC17PNUYmaS6Rbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047874666510-odsacfp67fiuckkjauhe104bd27o7deo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
